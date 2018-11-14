@@ -1,0 +1,15 @@
+1.0.0   Initial Release
+
+1.1.0   Added getoptlong() support, and --special option.
+
+1.1.1   Added --freshmeat-version support.
+
+1.1.2	Fixed bug in -s handling.
+
+1.2.0   Changed to use gettimeofday, for increased randomness.
+
+1.2.1   help output bug fix by rael@wibble.org.uk
+
+1.2.2   added --segfault support
+
+1.2.3   added an easter egg

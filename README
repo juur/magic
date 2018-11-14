@@ -1,0 +1,7 @@
+Works on:
+
+i386  Linux-2.2.10 libc.so.5.4.46 gcc 2.8.1
+sparc Linux-2.2.3  glibc-2.0.7.so egcs-2.90.27
+
+Dosen't Work on:
+Things missing getopt_long()
